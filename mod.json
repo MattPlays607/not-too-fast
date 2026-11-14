@@ -9,8 +9,13 @@
     },
     "id": "mattplays607.not-too-fast",
     "name": "Not Too Fast!",
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "developer": "MattPlays607",
+    "tags": [
+        "gameplay",
+        "offline",
+        "customization"
+    ],
     "description": "Speeds up the game every click or death",
     "settings": {
         "trigger": {
